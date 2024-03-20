@@ -103,7 +103,7 @@ agent.perform_action("nothing")
 agent.print_status()
 ~~~
 # OUTPUT:
-![image](https://github.com/Naveenvetrivel/19AI405ExpNo1/assets/94165322/62439651-34f8-4dac-9494-db27907410d2)
+![309527208-99743a3e-9466-4b83-8d7d-32583f276eaa](https://github.com/Naveenvetrivel/19AI405ExpNo1/assets/94165322/0d266294-58d0-41e6-94df-d70fe46fb160)
 
 # RESULT:
 Thus the Developing AI Agent with PEAS Description was implemented using python programming.
