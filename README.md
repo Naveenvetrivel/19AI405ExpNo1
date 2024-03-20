@@ -103,7 +103,7 @@ agent.perform_action("nothing")
 agent.print_status()
 ~~~
 # OUTPUT:
-![309527208-99743a3e-9466-4b83-8d7d-32583f276eaa](https://github.com/Naveenvetrivel/19AI405ExpNo1/assets/94165322/8ed6e0e5-950a-4aa2-a323-99733f69edf5)
+"C:\Users\DELL\Downloads\OUTPUT.txt"
 
 
 # RESULT:
