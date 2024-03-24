@@ -41,11 +41,12 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+
 # PROGRAM:
 ~~~
 Developing AI Agent with PEAS Description
-Developed by: V NAVEENKUMAR
-RegisterNumber: 212221230068
+Developed by: SYED MUHAMMED ZAHI
+RegisterNumber: 212221230114
 
 class VacuumCleanerAgent:
     def __init__(self):
@@ -103,7 +104,8 @@ agent.perform_action("nothing")
 agent.print_status()
 ~~~
 # OUTPUT:
-"C:\Users\DELL\Downloads\OUTPUT.txt"
+
+![311109492-7bf48aa3-c173-45e7-ae06-881a3c3f91a1](https://github.com/Naveenvetrivel/19AI405ExpNo1/assets/94165322/392d18f3-eaf5-4159-8ca3-6f9e1ecc404a)
 
 
 # RESULT:
