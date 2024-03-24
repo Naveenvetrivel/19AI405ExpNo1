@@ -45,8 +45,8 @@
 # PROGRAM:
 ~~~
 Developing AI Agent with PEAS Description
-Developed by: SYED MUHAMMED ZAHI
-RegisterNumber: 212221230114
+Developed by: V NAVEENKUMAR
+RegisterNumber: 212221230068
 
 class VacuumCleanerAgent:
     def __init__(self):
